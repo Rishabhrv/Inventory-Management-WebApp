@@ -20,11 +20,12 @@ $ cd inventory-management-website
 $ export FLASK_APP=app.py
 $ flask run
 The website will now be running on http://localhost:5000.
-Usage
+
+# Usage
 
 To use the inventory management website, follow these steps:
 
-- Open the website on your browser at http://localhost:5000.
+- Open the website on your browser.
 - Click on the Login page and enter your credentials to log in.
 - Once logged in, you will be redirected to the Manage Inventory page.
 - On the Manage Inventory page, you can add, edit, or delete items in the inventory.
